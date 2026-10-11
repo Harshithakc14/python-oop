@@ -100,12 +100,3 @@ while True:
     else:
         print("invalid choice please try again")
 
-
-
-    
-
-
-
-
-
-
