@@ -63,6 +63,38 @@ Output
 ![student_report_card](shots/src2.png)
 
 
+3. Library Management System
+
+A Python project that manages books using Object-Oriented Programming (OOP).
+
+Features
+
+- Add books
+- View available books
+- Borrow books
+- Return books
+
+Concepts Used
+
+- Classes and Objects
+- Encapsulation
+- Methods and Constructors
+- Conditional Statements and Loops
+
+How to Run
+
+python library_management.py
+
+Output
+
+![library_management_system_menu](shots/lms1.png)
+
+![library_managent_system](shots/lms2.png)
+
+
+
+
+
 
 <!-- Add banking system screenshots here -->Technologies Used
 
