@@ -33,7 +33,7 @@ Output
 ![banking system operations](shots/sc2.png)
 
 
-Student Report Card Generator
+2.Student Report Card Generator
 
 A menu-driven Python project that manages student details, subject marks, grades, and results using Object-Oriented Programming (OOP).
 
@@ -58,9 +58,9 @@ python student_report_card_generator.py
 
 Output
 
-"Student Report Card Menu" (images/src1.png)
+![student_report_card_menu](shots/src1.png)
 
-"Student Report Card Output" (images/src2.png)
+![student_report_card](shots/src2.png)
 
 
 
