@@ -33,7 +33,7 @@ Output
 ![banking system operations](shots/sc2.png)
 
 
-2.Student Report Card Generator
+2. Student Report Card Generator
 
 A menu-driven Python project that manages student details, subject marks, grades, and results using Object-Oriented Programming (OOP).
 
@@ -92,10 +92,5 @@ Output
 ![library_managent_system](shots/lms2.png)
 
 
-
-
-
-
-<!-- Add banking system screenshots here -->Technologies Used
 
 - Python 3
